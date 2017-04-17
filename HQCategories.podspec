@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
- some categories used in my project, and I will update it everyday
-                   DESC.thanks
+ some categories used in my project, and I will update it everyday.Thanks
+                   DESC
 
   s.homepage     = "https://github.com/huiqiangdev/HQCategories"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
